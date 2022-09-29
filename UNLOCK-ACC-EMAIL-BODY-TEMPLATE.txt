@@ -1,0 +1,17 @@
+Hi {FNAME} {LNAME},
+<br/>
+
+Welcome to Mounesh IT family, Your registration is alomost completed.
+Please use below details to unlock your account.<br/>
+<br/>
+
+Temporary Password : {TEMP-PWD}<br/>
+<br/>
+
+<a href='http:localhost:4200/unlockAcc?email={EMAIL}'>
+CLick here To Unlock your account</a>
+<br/>
+<br/>
+
+Thanks & Regards,<br/>
+Mounesh IT.<br/>
